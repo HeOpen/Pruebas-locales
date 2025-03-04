@@ -16,7 +16,9 @@ public class Principal {
 		Rama2 miRama2 = new Rama2();
 		miRama2.escribirMensaje("Practicando el Merge con conflictos");
 		
-
+		//Comentario para commit.
+		
+		
 	}
 
 }
