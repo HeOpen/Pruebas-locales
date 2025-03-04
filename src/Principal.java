@@ -17,6 +17,7 @@ public class Principal {
 		miRama2.escribirMensaje("Practicando el Merge con conflictos");
 		
 		//Comentario para commit.
+		//Comentario para pull.
 		
 		
 	}
